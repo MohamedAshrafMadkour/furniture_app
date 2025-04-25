@@ -1,16 +1,24 @@
-# furniture_app
+# 🛋️ Furniture App
 
-A new Flutter project.
+**Furniture App** is a modern Flutter application that displays a wide variety of furniture items by fetching data from a remote API. The app features a beautiful animated splash screen, search functionality, product detail view, and categorized APIs such as *Featured* and *Offers*. It is designed with a clean and intuitive UI for a smooth shopping experience.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## ✨ Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🌐 **Fetch Furniture Data from API**  
+  The app integrates with external APIs to retrieve up-to-date product information.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- 🔍 **Search Functionality**  
+  Allows users to search for specific furniture items by name or category.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 🖼️ **Animated Splash Screen**  
+  A visually appealing entry animation using `animations`.
+
+- 🪑 **Product Details Screen**  
+  Displays item image, description, price, and availability status.
+
+- 🏷️ **Featured & Offers APIs**  
+  Separate endpoints for showing featured products and promotional offers.
+
+---
